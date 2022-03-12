@@ -9,5 +9,9 @@ public class DsmovieApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DsmovieApplication.class, args);
 	}
+	
+	public void teste() {
+		System.out.println("teste java");
+	}
 
 }
