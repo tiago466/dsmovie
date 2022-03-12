@@ -1,6 +1,7 @@
 function Listing () {
+    
     return (
-        <h1>Página Listing</h1>
+        <h1>Página Listagem</h1>
     );
 }
 
